@@ -1,7 +1,5 @@
 package com.sales.entities;
 
-import com.sales.Product;
-
 public class Item {
     private double cost;
     private double shippingFee;
