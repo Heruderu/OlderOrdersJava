@@ -1,4 +1,4 @@
-package com.sales;
+package com.sales.entities;
 
 public class Customer {
     private String name;

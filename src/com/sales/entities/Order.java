@@ -1,4 +1,4 @@
-package com.sales;
+package com.sales.entities;
 
 import java.time.DateTimeException;
 import java.time.LocalDateTime;

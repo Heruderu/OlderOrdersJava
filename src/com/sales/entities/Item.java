@@ -1,4 +1,6 @@
-package com.sales;
+package com.sales.entities;
+
+import com.sales.Product;
 
 public class Item {
     private double cost;
